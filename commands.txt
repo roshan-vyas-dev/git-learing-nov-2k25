@@ -7,3 +7,4 @@
 > git add -A [adding all untracked files into staging area]
 > git commit -m "commit message "[adding staged files local repository]
 > git log [command for listing commit history]
+> git remote add name remote-path [to add remote repository to local] 
